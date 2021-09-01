@@ -6,3 +6,4 @@ An unofficial user manual for the Vanmoof Electrified S2
 ### [Rear Hub](rearHub.md)
 ### [Smart Cartridge](smartCartridge.md)
 ### [Wheels](wheels.md)
+### [Lights](lights.md)
