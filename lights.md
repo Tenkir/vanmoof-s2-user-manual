@@ -7,6 +7,8 @@
 
 Remove the glued in cover under the main housing of the light.
 
+**Note: This takes quite a bit of prying, and is likely to damage the cover. However, there are no active parts of this cover, and it can be reassembled with new glue.**
+
 ![light_cover](https://user-images.githubusercontent.com/3649828/131749396-e3b94896-c027-4305-a922-1edf01bab164.jpeg)
 
 -----
