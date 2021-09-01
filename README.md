@@ -1,4 +1,4 @@
-# vanmoof-s2-user-manual
+# Vanmoof S2 User Manual
 An unofficial user manual for the Vanmoof Electrified S2
 
 ### [Hub Motor](hubMotor.md)
