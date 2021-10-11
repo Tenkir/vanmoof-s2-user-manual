@@ -7,3 +7,4 @@ An unofficial user manual for the Vanmoof Electrified S2
 ### [Smart Cartridge](smartCartridge.md)
 ### [Wheels](wheels.md)
 ### [Lights](lights.md)
+### [Cranks and Bottom Bracket](cranks.md)
