@@ -8,3 +8,4 @@ An unofficial user manual for the Vanmoof Electrified S2
 ### [Wheels](wheels.md)
 ### [Lights](lights.md)
 ### [Cranks and Bottom Bracket](cranks.md)
+### [Drivetrain](driveTrain.md)
