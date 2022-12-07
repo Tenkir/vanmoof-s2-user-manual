@@ -14,4 +14,4 @@ An unofficial user manual for the Vanmoof Electrified S2
 
 ### My bike is showing Error 29
 
-See the [Smart Cartridge Page](smartCatridge.md) for details.
+See the [Smart Cartridge Page](smartCartridge.md#error-resolution) for details.
