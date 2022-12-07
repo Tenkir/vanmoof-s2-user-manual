@@ -9,3 +9,9 @@ An unofficial user manual for the Vanmoof Electrified S2
 ### [Lights](lights.md)
 ### [Cranks and Bottom Bracket](cranks.md)
 ### [Drivetrain](driveTrain.md)
+
+## FAQ
+
+### My bike is showing Error 29
+
+See the [Smart Cartridge Page](smartCatridge.md) for details.
