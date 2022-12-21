@@ -1,5 +1,5 @@
 # Vanmoof S2 User Manual
-An unofficial user manual for the Vanmoof Electrified S2
+An unofficial user manual for the Vanmoof Electrified S2. Use at your own risk.
 
 ### [Hub Motor](hubMotor.md)
 ### [Brakes](brakes.md)
