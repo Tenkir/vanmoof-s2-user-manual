@@ -10,7 +10,7 @@ An unofficial user manual for the Vanmoof Electrified S2
 ### [Cranks and Bottom Bracket](cranks.md)
 ### [Drivetrain](driveTrain.md)
 ### [Kick Lock](kickLock.md)
-### [Wiring Harness)(wiringHarness.md)
+### [Wiring Harness](wiringHarness.md)
 
 ## FAQ
 
