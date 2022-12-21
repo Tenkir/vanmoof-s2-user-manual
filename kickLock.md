@@ -9,4 +9,5 @@ Removing the kick lock on the S2 is the same process as the S3, Vanmoof has an [
 ## Connectors 
 
 **Wiring Harness Side:** [JST 04R-JWPF-VSLE-S](https://octopart.com/04r-jwpf-vsle-s-jst-279205#Images)
+
 **Kick Lock Module Side:** [JST 04T-JWPF-VSLE-S](https://octopart.com/04t-jwpf-vsle-s-jst-279173)
