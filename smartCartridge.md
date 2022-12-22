@@ -1,5 +1,9 @@
 # Smart Cartridge
 
+## MCU
+
+The core of the Smart Cartridge is a  [tm4c123gh6pmi7](https://octopart.com/tm4c123gh6pmi7-texas+instruments-47641106) microprocessor.
+
 ## Error Resolution
 
 ### Reset the Smart Cartridge
