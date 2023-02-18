@@ -10,3 +10,11 @@ The bottom bracket on the S2 is a Bafang Speed sensor. It uses a hall effects se
 
 * [Park Tools BBT-9](https://www.parktool.com/product/bottom-bracket-tool-bbt-9)
 * [Park Tools BBT-32](https://www.parktool.com/product/bottom-bracket-tool-bbt-32?category=Crank%20%26%20Bottom%20Bracket)
+
+## Electronics
+
+The bottom bracket sensor outputs a +5v square wave when the pedals are turned. The frequency of the square wave increases as the cadence of rotation increases. However, the Vanmoof S2 does not appear to use the frequency for anything, as feeding the controller a 1Hz square wave results in the hub motor spinning at the same RPM as a 70Hz square wave.
+
+![SDS00012](https://user-images.githubusercontent.com/3649828/219869295-66d5481e-9711-4eaf-a3a0-9e25e9355950.png)
+
+
