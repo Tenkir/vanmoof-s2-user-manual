@@ -4,7 +4,7 @@
 
 The bottom bracket on the S2 is a Bafang Speed sensor. It uses a hall effects sensor to determine when the cracks of the bike are rotating (need to verify). It uses a 6-Pin Julet Mini Connector to connect to the wiring harness of the bike.
 
-[Replacement Part](https://www.aliexpress.com/item/1005002790035485.html)
+[Replacement Part](https://www.ebay.com/itm/185670136339)
 
 ### Tools needed
 
