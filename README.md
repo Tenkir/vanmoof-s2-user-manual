@@ -5,6 +5,7 @@ An unofficial user manual for the Vanmoof Electrified S2. Use at your own risk.
 ### [Brakes](brakes.md)
 ### [Rear Hub](rearHub.md)
 ### [Smart Cartridge](smartCartridge.md)
+### [Battery Pack](battery.md)
 ### [Wheels](wheels.md)
 ### [Lights](lights.md)
 ### [Cranks and Bottom Bracket](cranks.md)

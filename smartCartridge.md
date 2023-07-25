@@ -1,5 +1,36 @@
 # Smart Cartridge
 
+## Opening the cartridge
+
+![smart cartridge opened](https://github.com/Silly105/vanmoof-s2-user-manual/assets/9697253/8a848530-7ca0-48d1-8916-73eab73de488)
+
+### Adhesive sealings
+
+To seal the smart cartrige against moisture, Vanmoof used self adhesive sealings, which glue the case parts together. It is challenging to remove components or opening the casing without damaging that sealings. To regain an airtight seal after opening, these parts have to be sealed of, for instance with using silicone or 2mm wide sealing tape from smartphone repair kits. 
+This are the are all sealings in the cartridge:
+
+![sealings](https://github.com/Silly105/vanmoof-s2-user-manual/assets/9697253/47ecb095-8c34-4625-b74d-b72336cdc1c1)
+
+### Accessing the cartidge battery
+
+The cartridge is equipped with an own li-ion battery independent from the battery back. It can be charged without opening the cartridge (see Error Resolution). If the battery needs replacement or needs to be checked for damages, use the following steps to expose it.
+
+WARNING: Opening the smart cartridge and exposing the circuit boards can damage/destroy the components. Do not open if you have other options of repairing.
+
+![accessing cartridge battery 1](https://github.com/Silly105/vanmoof-s2-user-manual/assets/9697253/1f041e01-cbf6-453d-9b7f-aa94f35cb634)
+![accessing cartridge battery 2](https://github.com/Silly105/vanmoof-s2-user-manual/assets/9697253/0e34abf1-5330-4493-9916-09bb4b79a64d)
+
+1. Open the small separate compartment, the edges are glued, opening will need mild force. There is a plugged connection inside. When lifting the case top, that plug has to be carefully pushed inside the cartridge so the wires are not damaged.
+
+2. The matrix display has to be removed. The contacts are protected by a glued seal, too. Carefully use some force, ideally with levering close to the contacts.
+
+3. To finally open the cartidge enclosure, again some force is needed after unscrewing. Most of the casing is glued, but can be opened without destroying the case parts by carefully levering with a thin but sturdy object. Most knives will do. The sealing will probably be damaged and needs replacement.
+   
+4. The battery is soldered under this board. Unscrew here.
+
+5. Now you can reach the battery contacts for measuring voltage etc. If you need to unsolder it, the plugged connections to the board need to be unplugged.
+
+
 ## MCU
 
 The core of the Smart Cartridge is a  [tm4c123gh6pmi7](https://octopart.com/tm4c123gh6pmi7-texas+instruments-47641106) microprocessor.
