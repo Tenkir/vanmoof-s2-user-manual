@@ -44,6 +44,8 @@ Park Tool has a [guide on removing bottom brackets](https://www.youtube.com/watc
 1. Repeat on the drive side.
 
 ## Electronics
+![cadence_sensor_pinout](https://github.com/Tenkir/vanmoof-s2-user-manual/assets/3649828/1ecce671-f717-409f-9a79-7aba50738b58)
+
 
 The bottom bracket sensor outputs a +5v square wave when the pedals are turned. The frequency of the square wave increases as the cadence of rotation increases. However, the Vanmoof S2 does not appear to use the frequency for anything, as feeding the controller a 1Hz square wave results in the hub motor spinning at the same RPM as a 70Hz square wave.
 
