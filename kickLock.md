@@ -22,3 +22,7 @@ Removing the kick lock on the S2 is the same process as the S3, Vanmoof has an [
 Inside there is an electromagnetic coil. When energized, it retracts the shaft, and repels the slug. This allows the pin to retract and the kick lock lug to be disengaged.
 
 When the kick lock lug is disengaged, it pushes against a pin, which pushes a momentary switch closed.
+
+## Replacement Parts
+
+#### [Kicklock Cover](https://www.thingiverse.com/thing:5951285)
