@@ -30,3 +30,7 @@ The battery pack comes with a proprietary 4+7 pin connector. Exact pin configura
 
 ![battery pinout](https://github.com/Silly105/vanmoof-s2-user-manual/assets/9697253/2bc17781-d7ab-4ad2-8e32-5ce21c78752e)
 ![connector-inside view](https://github.com/Silly105/vanmoof-s2-user-manual/assets/9697253/3b715f18-739b-4e41-a159-b504667bd18f)
+
+## Replacement Parts
+
+### [Battery Cover](https://www.thingiverse.com/thing:6437105)
