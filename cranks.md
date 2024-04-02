@@ -23,7 +23,9 @@ Park Tool has a [guide on removing square taper cranks](https://www.youtube.com/
 
 The bottom bracket on the S2 is a Bafang Speed sensor. It uses a hall effects sensor to determine when the cracks of the bike are rotating (need to verify). It uses a 6-Pin Julet Mini Connector to connect to the wiring harness of the bike.
 
-[Replacement Part](https://www.ebay.com/itm/185670136339)
+[OEM Manual](https://www.bafang-e.com/uploaded/manual/BF-DM-C-SR%20PA1XX-EN.pdf)
+
+[Replacement Part](https://www.aliexpress.us/item/3256805478774668.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.3.53f1WKh5WKh5Jh&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=13c18982-0647-4d66-a721-780df36c8ce7&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:13c18982-0647-4d66-a721-780df36c8ce7,tpp_buckets:668%232846%238111%231996&pdp_npi=4%40dis%21USD%2143.39%2123.86%21%21%2143.39%2123.86%21%402101ef5e17120734268176713e9bc5%2112000033943376182%21rec%21US%21%21AB&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A)
 
 ### Removing the Bottom Bracket
 
