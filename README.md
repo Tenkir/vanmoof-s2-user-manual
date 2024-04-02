@@ -12,6 +12,7 @@ An unofficial user manual for the Vanmoof Electrified S2. Use at your own risk.
 ### [Drivetrain](driveTrain.md)
 ### [Kick Lock](kickLock.md)
 ### [Wiring Harness](wiringHarness.md)
+### [Error Codes](errors.md)
 
 ## FAQ
 
