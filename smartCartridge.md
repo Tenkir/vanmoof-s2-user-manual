@@ -47,7 +47,7 @@ There are two solutions for this: replace the connector with a higher quality na
 
 The OEM connectors used are knock off Molex connectors, which seem to be unable to handle the required load. Replacement with name-brand Molex connectors seem to perform much better in this application, and I have not received any reports of this issue reoccuring after replacement with higher quality components.
 
-The [datasheet for the Molex connects](https://www.molex.com/en-us/products/part-detail/09503021?display=pdf], these connectors are rated for up to 600V DC @ 4.00-5.00A (depending on wire guage), which is well within the 42v DC @ 2.3A the Vanmoof charger puts out.
+Per the [datasheet for the Molex connector](https://www.molex.com/en-us/products/part-detail/09503021?display=pdf), these connectors are rated for up to 600V DC @ 4.00-5.00A (depending on wire guage), which is well within the 42v DC @ 2.3A the Vanmoof charger puts out.
 
 [Headers](https://www.mouser.com/ProductDetail/538-171814-0002)
 
