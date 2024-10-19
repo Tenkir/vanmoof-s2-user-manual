@@ -39,6 +39,8 @@ The core of the Smart Cartridge is a  [tm4c123gh6pmi7](https://octopart.com/tm4c
 
 ![image](https://github.com/user-attachments/assets/a6deee61-beff-4f20-b883-10536af30d02)
 
+*[Image credit: Coleman Oei](https://www.ifixit.com/User/4156153/Coleman+Oei)*
+
 A common issue with the charging system of the Vanmoof is the connector from the charging port to the main board arcs and scorches. This can often manifest as the bike not charging.
 
 There are two solutions for this: replace the connector with a higher quality name-brand part, or solder the wires directly to the header.
