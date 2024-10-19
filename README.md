@@ -22,4 +22,4 @@ See the [Smart Cartridge Page](smartCartridge.md#error-resolution) for details.
 
 ### My bike is not charging when plugged in
 
-See the [Scortched Charcer Connector Section](smartCartridge.md#scortched-charger-connector) for a potential solution.
+See the [Scortched Charger Connector Section](smartCartridge.md#scortched-charger-connector) for a potential solution.
