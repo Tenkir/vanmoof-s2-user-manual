@@ -19,3 +19,7 @@ An unofficial user manual for the Vanmoof Electrified S2. Use at your own risk.
 ### My bike is showing Error 29
 
 See the [Smart Cartridge Page](smartCartridge.md#error-resolution) for details.
+
+### My bike is not charging when plugged in
+
+See the [Scortched Charcer Connector Section](smartCartridge.md#scortched-charger-connector) for a potential solution.
