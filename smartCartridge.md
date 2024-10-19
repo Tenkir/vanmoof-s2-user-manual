@@ -39,13 +39,13 @@ The core of the Smart Cartridge is a  [tm4c123gh6pmi7](https://octopart.com/tm4c
 
 ![image](https://github.com/user-attachments/assets/a6deee61-beff-4f20-b883-10536af30d02)
 
-A common issue with the charging system of the Vanmoof is the connector from the charging port to the main board overheads and scorches. This can often manifest as the bike not charging.
+A common issue with the charging system of the Vanmoof is the connector from the charging port to the main board arcs and scorches. This can often manifest as the bike not charging.
 
 There are two solutions for this: replace the connector with a higher quality name-brand part, or solder the wires directly to the header.
 
 ### Replacement with Higher Quality Components
 
-The OEM connectors used are knock off Molex connectors, which seem to be unable to handle the required load. Replacement with name-brand Molex connectors seem to perform much better in this application, and I have not recieved any reports of this issue reoccuring after replacement with higher quality components.
+The OEM connectors used are knock off Molex connectors, which seem to be unable to handle the required load. Replacement with name-brand Molex connectors seem to perform much better in this application, and I have not received any reports of this issue reoccuring after replacement with higher quality components.
 
 [Headers](https://www.mouser.com/ProductDetail/538-171814-0002)
 
