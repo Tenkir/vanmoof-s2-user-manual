@@ -45,6 +45,8 @@ There are two solutions for this: replace the connector with a higher quality na
 
 ### Replacement with Higher Quality Components
 
+The OEM connectors used are knock off Molex connectors, which seem to be unable to handle the required load. Replacement with name-brand Molex connectors seem to perform much better in this application, and I have not recieved any reports of this issue reoccuring after replacement with higher quality components.
+
 [Headers](https://www.mouser.com/ProductDetail/538-171814-0002)
 
 [Housing](https://www.mouser.com/ProductDetail/538-09-50-3021)
@@ -53,9 +55,11 @@ There are two solutions for this: replace the connector with a higher quality na
 
 Cut off the existing wire housing and crimp pins, strip the wires, and crimp on the new pins. Insert them into the housing, ensuring the polarity remains the same as the original connector. Then reinsert the connector.
 
+Desolder the existing header pins from the PCB and solder the placement headers in the same location.
+
 ### Soldering The Wires Directly
 
-[iFixit has a guide on soldering the wires directly.](https://www.ifixit.com/Guide/Fix+for+Vanmoof+S2+Not+Charging/157499#s329204)
+Some users may prefer to solder the wires directly and avoid the connector entirely. [iFixit has a guide on soldering the wires directly.](https://www.ifixit.com/Guide/Fix+for+Vanmoof+S2+Not+Charging/157499#s329204)
 
 ## Error Resolution
 
