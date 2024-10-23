@@ -23,3 +23,7 @@ See the [Smart Cartridge Page](smartCartridge.md#error-resolution) for details.
 ### My bike is not charging when plugged in
 
 See the [Scortched Charger Connector Section](smartCartridge.md#scortched-charger-connector) for a potential solution.
+
+## Additional Tools
+
+[Vanmoof Battery Tool](https://github.com/VangelisBV/vanmoof-battery-tool)
